@@ -1,0 +1,16 @@
+{
+  "name": "newsapp",
+  "version": "1.0.0",
+  "description": "News car web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "*",
+    "path": "^0.12.7"
+  },
+  "author": "Rishabh Kumar",
+  "license": "ISC"
+}
